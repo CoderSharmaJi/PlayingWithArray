@@ -2,7 +2,6 @@ import java.util.Scanner;
 
 public class FilterArray {
 
-    //Method to convert an array of integers to an array of even integers
     static int[] evenArray(int[] arr)
     {
         int size =arraySize(arr);
